@@ -1,0 +1,6 @@
+name: main
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - sympy
